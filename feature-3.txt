@@ -1,1 +1,3 @@
-This is a feature from dev-1
+This is a feature from dev-1 cleared everything working fine
+
+This is a changes done from dev-2
